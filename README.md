@@ -1,6 +1,3 @@
-# Trullo
-Individuel uppgift
-
 # Trullo REST API
 
 A simple **TypeScript + Node.js + Express** REST API for project management, with two resources: **Users** and **Tasks**.  
